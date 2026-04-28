@@ -28,7 +28,7 @@ LED turns ON and OFF every 1 second.
 Two LEDs blink alternately.
 <img width="1186" height="739" alt="Blink Alternate" src="https://github.com/user-attachments/assets/0b4c118d-3fb8-4ac8-ae4d-6d13de9739f1" />
 
-### 💡 3. LED Brightness Control (Potentiometer)
+### 💡Project 3: LED Brightness Control (Potentiometer)
 Control LED brightness using a potentiometer.
 
 - Uses analog input (0–1023)
